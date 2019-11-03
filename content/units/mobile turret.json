@@ -1,5 +1,5 @@
 {
-	"type": "landUnit",
+	"type": "flyingUnit",
 	"name": "tf2 turret",
 	"description": "Generally annoying.",
 	"speed": 0.1,
