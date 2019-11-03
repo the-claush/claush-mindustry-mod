@@ -1,0 +1,17 @@
+{
+	"type": "landUnit",
+	"name": "tf2 turret",
+	"description": "Generally annoying.",
+	"speed": 0.1,
+	"flying": false,
+	"health": 50,
+	"engineOffset": 5.5,
+	"range": 160,
+	"weapon": {
+		"name": "auto shot mechamist",
+		"length": 1.5,
+		"reload": 1,
+		"alternate": no,
+		"bullet": "bullets"
+	}
+}
