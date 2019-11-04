@@ -1,12 +1,12 @@
 {
-	"type": "flyingUnit",
+	"type": "groundUnit",
 	"name": "tf2 turret",
 	"description": "Generally annoying.",
 	"speed": 0.1,
 	"flying": false,
 	"health": 50,
 	"engineOffset": 5.5,
-	"range": 160,
+	"range": 100,
 	"weapon": {
 		"name": "auto shot mechamist",
 		"length": 1.5,
@@ -18,12 +18,12 @@
 		  "bulletWidth": 3,
 		  "bulletHeight": 1,
 		  "splashDamageRadius": 80,
-		  "splashDamage": 200,
+		  "splashDamage": 10,
 		  "frontColor": "b830c2",
 		  "backColor": "b830c2",
 		  "homingPower": 20,
-		  "homingRange": 600,
+		  "homingRange": 10,
 		  "lifetime": 140
-}
+		}
 	}
 }
