@@ -3,7 +3,7 @@
 	"description": "Makes turrets.",
 	"type": "UnitFactory",
 	"unitType": "mobile turret",
-	"size": 3,
+	"size": 2,
 	"produceTime": 10,
 	"consumes": {
 		"power": 0.5,
