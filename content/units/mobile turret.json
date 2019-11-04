@@ -12,6 +12,18 @@
 		"length": 1.5,
 		"reload": 1,
 		"alternate": no,
-		"bullet": "salvobullet"
+		"bullet": {
+		  "damage": 10,
+		  "speed": 5,
+		  "bulletWidth": 3,
+		  "bulletHeight": 1,
+		  "splashDamageRadius": 80,
+		  "splashDamage": 200,
+		  "frontColor": "b830c2",
+		  "backColor": "b830c2",
+		  "homingPower": 20,
+		  "homingRange": 600,
+		  "lifetime": 140
+}
 	}
 }
