@@ -1,0 +1,17 @@
+{
+	"type": "flyingUnit",
+	"name": "tiger drone",
+	"description": "Generally annoying.",
+	"speed": 0.1,
+	"flying": true,
+	"health": 50,
+	"engineOffset": 5.5,
+	"range": 160,
+	"weapon": {
+		"name": "auto blaster",
+		"length": 1.0,
+		"reload": 1,
+		"alternate": yes,
+		"bullet": "bullets"
+	}
+}
