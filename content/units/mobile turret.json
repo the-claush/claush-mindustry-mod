@@ -12,6 +12,6 @@
 		"length": 1.5,
 		"reload": 1,
 		"alternate": no,
-		"bullet": "shootSmall"
+		"bullet": "shoot"
 	}
 }
