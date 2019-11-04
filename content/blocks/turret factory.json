@@ -17,8 +17,7 @@
 	"category": "units",
 	"research": "wraith-factory",
 	"requirements": [
-		{ "item": "silver", "amount": 70 },
-		{ "item": "electrum", "amount": 40 },
+		{ "item": "graphite", "amount": 70 },
 		{ "item": "silicon", "amount": 40 },
 		{ "item": "titanium", "amount": 20 }
 	]
