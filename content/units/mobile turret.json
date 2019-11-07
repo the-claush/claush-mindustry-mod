@@ -19,8 +19,8 @@
 		  "bulletHeight": 1,
 		  "splashDamageRadius": 80,
 		  "splashDamage": 10,
-		  "frontColor": "b830c2",
-		  "backColor": "b830c2",
+		  "frontColor": "FFF900",
+		  "backColor": "FFAA00",
 		  "homingPower": 20,
 		  "homingRange": 10,
 		  "lifetime": 140
