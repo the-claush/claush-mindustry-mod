@@ -1,8 +1,8 @@
 {
 	"type": "flyingUnit",
 	"name": "tiger drone",
-	"description": "Generally annoying.",
-	"speed": 0.1,
+	"description": "is a tiger out of the ground with a huge fan.",
+	"speed": 0.4,
 	"flying": true,
 	"health": 50,
 	"engineOffset": 5.5,
@@ -12,6 +12,18 @@
 		"length": 1.0,
 		"reload": 1,
 		"alternate": yes,
-		"bullet": "bullets"
+		"bullet": "{
+		  "damage": 10,
+		  "speed": 5,
+		  "bulletWidth": 3,
+		  "bulletHeight": 1,
+		  "splashDamageRadius": 80,
+		  "splashDamage": 10,
+		  "frontColor": "ffffff",
+		  "backColor": "ffffff",
+		  "homingPower": 20,
+		  "homingRange": 10,
+		  "lifetime": 140
+		}
 	}
 }
